@@ -1,0 +1,9 @@
+.DS_Store
+build/
+.cache/
+managed_components/
+sdkconfig
+sdkconfig.old
+*.crt
+*.key
+.ipynb_checkpoints/
